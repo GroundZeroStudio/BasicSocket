@@ -1,0 +1,13 @@
+D:\VSCommunity\Project\EchoClient\EchoClient\bin\Debug\netcoreapp3.1\EchoClient.exe
+D:\VSCommunity\Project\EchoClient\EchoClient\bin\Debug\netcoreapp3.1\EchoClient.deps.json
+D:\VSCommunity\Project\EchoClient\EchoClient\bin\Debug\netcoreapp3.1\EchoClient.runtimeconfig.json
+D:\VSCommunity\Project\EchoClient\EchoClient\bin\Debug\netcoreapp3.1\EchoClient.runtimeconfig.dev.json
+D:\VSCommunity\Project\EchoClient\EchoClient\bin\Debug\netcoreapp3.1\EchoClient.dll
+D:\VSCommunity\Project\EchoClient\EchoClient\bin\Debug\netcoreapp3.1\EchoClient.pdb
+D:\VSCommunity\Project\EchoClient\EchoClient\obj\Debug\netcoreapp3.1\EchoClient.csproj.AssemblyReference.cache
+D:\VSCommunity\Project\EchoClient\EchoClient\obj\Debug\netcoreapp3.1\EchoClient.AssemblyInfoInputs.cache
+D:\VSCommunity\Project\EchoClient\EchoClient\obj\Debug\netcoreapp3.1\EchoClient.AssemblyInfo.cs
+D:\VSCommunity\Project\EchoClient\EchoClient\obj\Debug\netcoreapp3.1\EchoClient.csproj.CoreCompileInputs.cache
+D:\VSCommunity\Project\EchoClient\EchoClient\obj\Debug\netcoreapp3.1\EchoClient.dll
+D:\VSCommunity\Project\EchoClient\EchoClient\obj\Debug\netcoreapp3.1\EchoClient.pdb
+D:\VSCommunity\Project\EchoClient\EchoClient\obj\Debug\netcoreapp3.1\EchoClient.genruntimeconfig.cache

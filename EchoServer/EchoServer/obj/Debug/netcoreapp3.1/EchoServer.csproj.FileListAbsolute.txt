@@ -1,0 +1,13 @@
+D:\VSCommunity\Project\EchoServer\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.exe
+D:\VSCommunity\Project\EchoServer\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.deps.json
+D:\VSCommunity\Project\EchoServer\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.runtimeconfig.json
+D:\VSCommunity\Project\EchoServer\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.runtimeconfig.dev.json
+D:\VSCommunity\Project\EchoServer\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.dll
+D:\VSCommunity\Project\EchoServer\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.pdb
+D:\VSCommunity\Project\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.csproj.AssemblyReference.cache
+D:\VSCommunity\Project\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.AssemblyInfoInputs.cache
+D:\VSCommunity\Project\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.AssemblyInfo.cs
+D:\VSCommunity\Project\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.csproj.CoreCompileInputs.cache
+D:\VSCommunity\Project\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.dll
+D:\VSCommunity\Project\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.pdb
+D:\VSCommunity\Project\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.genruntimeconfig.cache
